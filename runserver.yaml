@@ -1,0 +1,7 @@
+homepage:
+  menu:
+    replace:
+
+      - desc: Calendarios
+        screenName: Calendarios
+        img: "/src/client/assets/logo.jpg"
